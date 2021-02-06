@@ -1,4 +1,4 @@
-## Hi there, I'm WillyJL 👋
+## Hey there, I'm WillyJL 👋
 
  * 17, High School Student in Italy, CEO of Procrastination
  * Long time lurker in modding communities, just recently got involved in Cyberpunk 2077 modding
@@ -11,5 +11,5 @@
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Willy-JL&count_private=true&show_icons=true&theme=algolia&hide_border=true&hide_title=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Willy-JL&count_private=true&show_icons=true&theme=algolia&hide_border=true&hide_title=true&hide=prs&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willy-JL&theme=algolia&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
