@@ -11,19 +11,22 @@
 
 ## GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Willy-JL?tab=repositories">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Willy-JL&count_private=true&show_icons=true&theme=algolia&hide_border=true&hide_title=true&hide=prs&disable_animations=true&cache_seconds=1800" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willy-JL&theme=algolia&card_width=240&layout=compact&hide_border=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willy-JL&theme=algolia&card_width=240&layout=compact&hide_border=true&cache_seconds=1800)](https://github.com/Willy-JL?tab=repositories)
 
-<a href="https://github.com/Willy-JL/animate-my-emojis">
+<a href="https://wakatime.com/@willyjl">
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=willyjl&layout=default&custom_title=Last+Week%27s+Stats&theme=algolia&hide_border=true&hide_title=false&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/Willy-JL/animate-my-emojis">
-  <img width="290" src="https://github-readme-stats.vercel.app/api/pin/?username=Willy-JL&repo=animate-my-emojis&theme=algolia&hide_border=true" />
+  <img width="290" src="https://github-readme-stats.vercel.app/api/pin/?username=Willy-JL&repo=animate-my-emojis&theme=algolia&hide_border=true&cache_seconds=1800" />
 </a>
-<a href="https://github.com/Willy-JL/animate-my-emojis">
-  <img width="290" src="https://github-readme-stats.vercel.app/api/pin/?username=Willy-JL&repo=str8up-menu&theme=algolia&hide_border=true" />
+<a href="https://github.com/Willy-JL/str8up-menu">
+  <img width="290" src="https://github-readme-stats.vercel.app/api/pin/?username=Willy-JL&repo=str8up-menu&theme=algolia&hide_border=true&cache_seconds=1800" />
+</a>
+<a href="https://github.com/Willy-JL/instadownloader">
+  <img width="290" src="https://github-readme-stats.vercel.app/api/pin/?username=Willy-JL&repo=instadownloader&theme=algolia&hide_border=true&cache_seconds=1800" />
 </a>
