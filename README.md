@@ -28,7 +28,7 @@
   <img width="290" src="https://github-readme-stats.vercel.app/api/pin/?username=Willy-JL&repo=str8up-menu&cache_seconds=1800&theme=algolia&hide_border=true" />
 </a>
 <a href="https://github.com/Willy-JL/resource-embedder-py">
-  <img width="290" src="https://github-readme-stats.vercel.app/api/pin/?username=Willy-JL&repo=resource-embedder-py&cache_seconds=1801&theme=algolia&hide_border=true" />
+  <img width="290" src="https://github-readme-stats.vercel.app/api/pin/?username=Willy-JL&repo=resource-embedder-py&cache_seconds=1800&theme=algolia&hide_border=true" />
 </a>
 <a href="https://github.com/Willy-JL/instadownloader">
   <img width="290" src="https://github-readme-stats.vercel.app/api/pin/?username=Willy-JL&repo=instadownloader&cache_seconds=1800&theme=algolia&hide_border=true" />
