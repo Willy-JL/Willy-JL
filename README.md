@@ -11,5 +11,6 @@
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Willy-JL&count_private=true&show_icons=true&theme=algolia&hide_border=true&hide_title=true&hide=prs&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willy-JL&theme=algolia&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Willy-JL&count_private=true&show_icons=true&theme=algolia&hide_border=true&hide_title=true&hide=prs&disable_animations=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willy-JL&theme=algolia&layout=compact&hide_border=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willyjl&layout=default&custom_title=Last%20Week%20on%20VS%20Code&theme=algolia&hide_border=true&hide_title=false&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
