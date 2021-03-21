@@ -18,7 +18,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willy-JL&theme=algolia&card_width=240&layout=compact&hide=shell,batchfile&hide_border=true&cache_seconds=1800)](https://github.com/Willy-JL?tab=repositories)
 
 <a href="https://wakatime.com/@willyjl">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=willyjl&layout=default&custom_title=Last+Week%27s+Grind&theme=algolia&hide_border=true&line_height=25&hide_title=false&cache_seconds=1800" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=willyjl&layout=compact&custom_title=Last+Week%27s+Grind&theme=algolia&hide_border=true&line_height=25&hide_title=false&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/Willy-JL/animate-my-emojis">
