@@ -15,7 +15,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Willy-JL&count_private=true&show_icons=true&theme=algolia&hide_border=true&hide_title=true&hide=prs&disable_animations=true&cache_seconds=1800" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willy-JL&theme=algolia&card_width=240&layout=compact&hide=shell,batchfile&hide_border=true&cache_seconds=1800)](https://github.com/Willy-JL?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willy-JL&theme=algolia&card_width=240&layout=compact&hide=tcl&hide_border=true&cache_seconds=1800)](https://github.com/Willy-JL?tab=repositories)
 
 <a href="https://wakatime.com/@willyjl">
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=willyjl&layout=compact&custom_title=Last+Week%27s+Grind&theme=algolia&hide_border=true&line_height=25&hide_title=false&cache_seconds=1800" />
