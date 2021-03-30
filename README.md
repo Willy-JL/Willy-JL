@@ -21,17 +21,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=willyjl&layout=compact&custom_title=Last+Week%27s+Grind&theme=algolia&hide_border=true&line_height=25&hide_title=false&cache_seconds=1800" />
 </a>
 
-<a href="https://github.com/Willy-JL/altiera-bot">
-  <img width="290" src="https://github-readme-stats.vercel.app/api/pin/?username=Willy-JL&repo=altiera-bot&theme=algolia&hide_border=true&cache_seconds=1800" />
+<a href="https://github.com/Willy-JL/soundy">
+  <img width="290" src="https://github-readme-stats.vercel.app/api/pin/?username=Willy-JL&repo=soundy&theme=algolia&hide_border=true&cache_seconds=1800" />
 </a>
 <a href="https://github.com/Willy-JL/str8up-menu">
   <img width="290" src="https://github-readme-stats.vercel.app/api/pin/?username=Willy-JL&repo=str8up-menu&theme=algolia&hide_border=true&cache_seconds=1800" />
 </a>
-<!---
-<a href="https://github.com/Willy-JL/resource-embedder-py">
-  <img width="290" src="https://github-readme-stats.vercel.app/api/pin/?username=Willy-JL&repo=resource-embedder-py&theme=algolia&hide_border=true&cache_seconds=1800" />
-</a>
-<a href="https://github.com/Willy-JL/instadownloader">
-  <img width="290" src="https://github-readme-stats.vercel.app/api/pin/?username=Willy-JL&repo=instadownloader&theme=algolia&hide_border=true&cache_seconds=1800" />
-</a>
---->
