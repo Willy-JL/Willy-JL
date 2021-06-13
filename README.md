@@ -1,6 +1,6 @@
 ## Hey there, I'm WillyJL 👋
 
- * 17, High School Student in Italy, CEO of Procrastination
+ * 18 y/o (27/05/2003), High School Student in Italy, CEO of Procrastination
  * Very passionate about coding, dabbled with many languages (Python, Lua, C++, JavaScript, CSS, HTML, AutoHotKey, Redscript, Swift and more)
  * You might know me from a few of my CP2077 mods:
    * [Better Minimap](https://www.nexusmods.com/cyberpunk2077/mods/634) ([GitHub](https://github.com/Willy-JL/betterminimap-installer))
