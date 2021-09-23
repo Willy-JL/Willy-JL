@@ -1,5 +1,7 @@
 <h1 align="center">Hey there 👋, I'm WillyJL!</h1>
-<h4 align="center">Self proclaimed CEO of Procrastination and avid Python enjoyer</h4>
+<p align="center">
+    <i>Self proclaimed</i> <b>CEO of Procrastination</b> <i>and</i> <b>Avid Python Enjoyer</b>
+</p>
 
 <br />
 
