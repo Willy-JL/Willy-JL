@@ -49,16 +49,16 @@ Python Frameworks
 [![Selenium](  https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white                       )](https://selenium-python.readthedocs.io/)
 
 Get in touch
--------------
+------------
 [![Discord](   https://img.shields.io/badge/-WillyJL%233633-333333?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/channels/@me)
-[![Instagram]( https://img.shields.io/badge/-@willyjl_-333333?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F   )](https://www.instagram.com/willyjl_)
+[![Instagram]( https://img.shields.io/badge/-@willyjl__-333333?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F   )](https://www.instagram.com/willyjl_)
 [![Reddit](    https://img.shields.io/badge/-u%2FWillyJL-333333?style=for-the-badge&logo=reddit&logoColor=white&labelColor=FF4500 )](https://www.reddit.com/user/WillyJL)
-[![Twitter](   https://img.shields.io/badge/-@WillyJL_-333333?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2     )](https://twitter.com/WillyJL_)
+[![Twitter](   https://img.shields.io/badge/-@WillyJL__-333333?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2     )](https://twitter.com/WillyJL_)
 [![YouTube](   https://img.shields.io/badge/-WillyJL-333333?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF2222       )](https://www.youtube.com/channel/UCxouMwGYdvfKLDP4wb-eUoQ)
 [![GitHub](    https://img.shields.io/badge/-Willy--JL-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=181717      )](https://github.com/Willy-JL)\
 [![Linktree](  https://img.shields.io/badge/-@WillyJL-333333?style=for-the-badge&logo=linktree&logoColor=white&labelColor=29B06B     )](https://linktr.ee/WillyJL)
 
 Buy me a coffee
-----------------
+---------------
 [![Paypal](    https://img.shields.io/badge/-WillyJL-333333?style=for-the-badge&logo=paypal&logoColor=white&labelColor=00457C        )](https://paypal.me/willyjl)
 [![Ko-Fi](     https://img.shields.io/badge/-WillyJL-333333?style=for-the-badge&logo=kofi&logoColor=white&labelColor=FF5E5B          )](https://ko-fi.com/willyjl)
