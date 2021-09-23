@@ -38,7 +38,7 @@ Languages
 [![CSS](       https://img.shields.io/badge/-CSS-DD3A0A?style=for-the-badge&logo=css3&logoColor=white                                )](https://www.w3.org/Style/CSS/)
 [![Redscript]( https://img.shields.io/badge/-Redscript-DC382D?style=for-the-badge&logo=swift&logoColor=white                         )](https://github.com/jac3km4/redscript)
 [![C++](       https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white                             )](https://isocpp.org/)
-[![Markdown](  https://img.shields.io/badge/-Markdown-333333?style=for-the-badge&logo=markdown&logoColor=white                       )](https://daringfireball.net/projects/markdown)
+[![Markdown](  https://img.shields.io/badge/-Markdown-222222?style=for-the-badge&logo=markdown&logoColor=white                       )](https://daringfireball.net/projects/markdown)
 
 Python Frameworks
 -----------------
@@ -48,12 +48,21 @@ Python Frameworks
 [![Pillow](    https://img.shields.io/badge/-Pillow-FF880F?style=for-the-badge&logo=slickpic&logoColor=white                         )](https://pillow.readthedocs.io/en/stable)
 [![Selenium](  https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white                       )](https://selenium-python.readthedocs.io/)
 
+Tools
+-----
+[![VS Code](   https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white                )](https://code.visualstudio.com/)
+[![PyCharm](   https://img.shields.io/badge/-PyCharm-18BEB9?style=for-the-badge&logo=pycharm&logoColor=white                         )](https://www.jetbrains.com/pycharm)
+[![Git](       https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white                                 )](https://git-scm.com/)
+[![GitHub](    https://img.shields.io/badge/-GitHub-222222?style=for-the-badge&logo=github&logoColor=white                           )](https://github.com/)
+[![Heroku](    https://img.shields.io/badge/-Heroku-7200F8?style=for-the-badge&logo=heroku&logoColor=white                           )](https://www.heroku.com/)
+[![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white                    )](https://archlinux.org/)
+
 Get in touch
 ------------
 [![Discord](   https://img.shields.io/badge/-WillyJL%233633-333333?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/channels/@me)
-[![Instagram]( https://img.shields.io/badge/-@willyjl__-333333?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F   )](https://www.instagram.com/willyjl_)
-[![Reddit](    https://img.shields.io/badge/-u%2FWillyJL-333333?style=for-the-badge&logo=reddit&logoColor=white&labelColor=FF4500 )](https://www.reddit.com/user/WillyJL)
-[![Twitter](   https://img.shields.io/badge/-@WillyJL__-333333?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2     )](https://twitter.com/WillyJL_)
+[![Instagram]( https://img.shields.io/badge/-@willyjl__-333333?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F  )](https://www.instagram.com/willyjl_)
+[![Reddit](    https://img.shields.io/badge/-u%2FWillyJL-333333?style=for-the-badge&logo=reddit&logoColor=white&labelColor=FF4500    )](https://www.reddit.com/user/WillyJL)
+[![Twitter](   https://img.shields.io/badge/-@WillyJL__-333333?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2    )](https://twitter.com/WillyJL_)
 [![YouTube](   https://img.shields.io/badge/-WillyJL-333333?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF2222       )](https://www.youtube.com/channel/UCxouMwGYdvfKLDP4wb-eUoQ)
 [![GitHub](    https://img.shields.io/badge/-Willy--JL-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=181717      )](https://github.com/Willy-JL)\
 [![Linktree](  https://img.shields.io/badge/-@WillyJL-333333?style=for-the-badge&logo=linktree&logoColor=white&labelColor=29B06B     )](https://linktr.ee/WillyJL)
