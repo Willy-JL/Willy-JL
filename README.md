@@ -16,7 +16,7 @@ class AboutMe():
         self.fullname = "William Leslie"
         self.pronouns = ("he", "him")
         self.location = "Italy"
-        self.occupation = "High school student"
+        self.occupation = "High School Student"
         self.birthday = dt.date(day=27, month=5, year=2003)
         self.age = (dt.date.today()-self.birthday).days/365  # 18 y/o
         self.hobbies = ["Coding", "Gaming", "Music", "YouTube"]
@@ -40,7 +40,7 @@ Languages
 [![C++](       https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white                             )](https://isocpp.org/)
 [![Markdown](  https://img.shields.io/badge/-Markdown-222222?style=for-the-badge&logo=markdown&logoColor=white                       )](https://daringfireball.net/projects/markdown)
 
-Python Frameworks
+Python Libraries
 -----------------
 [![AIOHTTP](   https://img.shields.io/badge/-AIOHTTP-2C5BB4?style=for-the-badge&logo=aiohttp&logoColor=white                         )](https://docs.aiohttp.org/en/stable)
 [![PyQt](      https://img.shields.io/badge/-PyQt-00BD00?style=for-the-badge&logo=qt&logoColor=white                                 )](https://riverbankcomputing.com/software/pyqt/intro)
@@ -67,7 +67,7 @@ Get in touch
 [![GitHub](    https://img.shields.io/badge/-Willy--JL-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=181717      )](https://github.com/Willy-JL)\
 [![Linktree](  https://img.shields.io/badge/-@WillyJL-333333?style=for-the-badge&logo=linktree&logoColor=white&labelColor=29B06B     )](https://linktr.ee/WillyJL)
 
-Buy me a coffee
+Buy me a Coffee
 ---------------
 [![Paypal](    https://img.shields.io/badge/-WillyJL-333333?style=for-the-badge&logo=paypal&logoColor=white&labelColor=00457C        )](https://paypal.me/willyjl)
 [![Ko-Fi](     https://img.shields.io/badge/-WillyJL-333333?style=for-the-badge&logo=kofi&logoColor=white&labelColor=FF5E5B          )](https://ko-fi.com/willyjl)
