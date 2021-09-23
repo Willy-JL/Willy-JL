@@ -36,7 +36,7 @@ Languages
 [![CSS](       https://img.shields.io/badge/-CSS-DD3A0A?style=for-the-badge&logo=css3&logoColor=white                                )](https://www.w3.org/Style/CSS/)
 [![Redscript]( https://img.shields.io/badge/-Redscript-DC382D?style=for-the-badge&logo=swift&logoColor=white                         )](https://github.com/jac3km4/redscript)
 [![C++](       https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white                             )](https://isocpp.org/)
-[![Markdown](  https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white                       )](https://daringfireball.net/projects/markdown)
+[![Markdown](  https://img.shields.io/badge/-Markdown-333333?style=for-the-badge&logo=markdown&logoColor=white                       )](https://daringfireball.net/projects/markdown)
 
 Python Frameworks
 -----------------
