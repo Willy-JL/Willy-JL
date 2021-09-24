@@ -56,6 +56,7 @@ Tools
 [![GitHub](    https://img.shields.io/badge/-GitHub-222222?style=for-the-badge&logo=github&logoColor=white           )](https://github.com/)
 [![Heroku](    https://img.shields.io/badge/-Heroku-7200F8?style=for-the-badge&logo=heroku&logoColor=white           )](https://www.heroku.com/)
 [![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white    )](https://archlinux.org/)
+[![Zsh](       https://img.shields.io/badge/-Zsh-FF2299?style=for-the-badge&logo=zelle&logoColor=white               )](https://www.zsh.org/)
 
 My Specs
 --------
