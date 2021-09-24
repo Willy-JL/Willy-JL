@@ -75,7 +75,7 @@ Get in touch
 [![Twitter](https://img.shields.io/badge/-@WillyJL__-333333?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/WillyJL_)\
 [![YouTube](https://img.shields.io/badge/-%E2%81%A0%20%20%20%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0WillyJL%E2%81%A0%E2%81%A0%20%20%20%20%E2%81%A0-333333?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF2222)](https://www.youtube.com/channel/UCxouMwGYdvfKLDP4wb-eUoQ)
 [![GitHub](https://img.shields.io/badge/-%E2%81%A0%20Willy--JL%20%E2%81%A0-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Willy-JL)\
-[![Linktree](https://img.shields.io/badge/-%E2%81%A0%20%20%20%20%20%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0linktr.ee%2F%20%20%20%20%20%20%20%20%20WillyJL%20%20%20%20%20%20%E2%81%A0-333333?style=for-the-badge&logo=linktree&logoColor=white&labelColor=29B06B)](https://linktr.ee/WillyJL)
+[![Linktree](https://img.shields.io/badge/-%E2%81%A0%E2%81%A0linktr.ee%2F%E2%81%A0%E2%81%A0%E2%81%A0WillyJL%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%81%A0-333333?style=for-the-badge&logo=linktree&logoColor=white&labelColor=29B06B)](https://linktr.ee/WillyJL)
 
 Buy me a Coffee
 ---------------
