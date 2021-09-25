@@ -1,6 +1,29 @@
 <h1 align="center">Hey there 👋, I'm WillyJL!</h1>
 <p align="center">
     <i>Self proclaimed</i> <b>CEO of Procrastination</b> <i>and</i> <b>Avid Python Enjoyer</b>
+    <br />
+    <br />
+    <a href="https://hits.seeyoufarm.com/">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWilly-JL&title_bg=%232D2D2D&count_bg=%2300CC69&icon=github.svg&icon_color=%23E7E7E7&title=Views%20%28Day%20%2F%20All%29&edge_flat=false" />
+    </a>
+    <a href="https://pufler.dev/git-badges/">
+        <img src="https://badges.pufler.dev/years/Willy-JL?style=flat&labelColor=333333&logoColor=E7E7E7&color=004FFF&label=Years&logo=github" />
+    </a>
+    <a href="https://github.com/Willy-JL?tab=followers">
+        <img src="https://img.shields.io/github/followers/Willy-JL?labelColor=333333&logoColor=E7E7E7&color=6939FF&label=Followers&logo=github" />
+    </a>
+    <a href="https://www.reddit.com/user/WillyJL">
+        <img src="https://img.shields.io/reddit/user-karma/combined/WillyJL?labelColor=333333&logoColor=E7E7E7&color=FF6900&label=Karma&logo=reddit" />
+    </a>
+    <a href="https://twitter.com/WillyJL_">
+        <img src="https://img.shields.io/twitter/follow/WillyJL_?style=flat&labelColor=333333&logoColor=E7E7E7&color=0099FF&label=Followers&logo=twitter" />
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/PRs-Welcome-00CC00?style=flat&labelColor=333333&logoColor=E7E7E7">
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/Open_Source-❤-FF0069?style=flat&labelColor=333333&logoColor=E7E7E7">
+    </a>
 </p>
 
 <br />
