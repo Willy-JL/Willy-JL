@@ -7,22 +7,20 @@
         <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWilly-JL&title_bg=%232D2D2D&count_bg=%2300CC69&icon=github.svg&icon_color=%23E7E7E7&title=Views%20%28Day%20%2F%20All%29&edge_flat=false" />
     </a>
     <a href="https://pufler.dev/git-badges/">
-        <img src="https://badges.pufler.dev/years/Willy-JL?style=flat&labelColor=333333&logoColor=E7E7E7&color=004FFF&label=Years&logo=github" />
+        <img src="https://badges.pufler.dev/years/Willy-JL?style=flat&labelColor=333333&logoColor=E7E7E7&color=0089FF&label=Years&logo=github" />
     </a>
     <a href="https://github.com/Willy-JL?tab=followers">
-        <img src="https://img.shields.io/github/followers/Willy-JL?labelColor=333333&logoColor=E7E7E7&color=6939FF&label=Followers&logo=github" />
+        <img src="https://img.shields.io/github/followers/Willy-JL?labelColor=333333&logoColor=E7E7E7&color=8939FF&label=Followers&logo=github" />
     </a>
-    <a href="https://www.reddit.com/user/WillyJL">
-        <img src="https://img.shields.io/reddit/user-karma/combined/WillyJL?labelColor=333333&logoColor=E7E7E7&color=FF6900&label=Karma&logo=reddit" />
+    <a href="">
+        <img src="https://img.shields.io/github/stars/Willy-JL?affiliations=OWNER%2CCOLLABORATOR&labelColor=333333&logoColor=E7E7E7&color=EEAA00&label=Stars&logo=github" />
     </a>
-    <a href="https://twitter.com/WillyJL_">
-        <img src="https://img.shields.io/twitter/follow/WillyJL_?style=flat&labelColor=333333&logoColor=E7E7E7&color=0099FF&label=Followers&logo=twitter" />
+    <br />
+    <a href="">
+        <img src="https://img.shields.io/badge/Open_Source-❤-FF0069?style=flat&labelColor=333333&logoColor=E7E7E7">
     </a>
     <a href="">
         <img src="https://img.shields.io/badge/PRs-Welcome-00CC00?style=flat&labelColor=333333&logoColor=E7E7E7">
-    </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/Open_Source-❤-FF0069?style=flat&labelColor=333333&logoColor=E7E7E7">
     </a>
 </p>
 
