@@ -12,14 +12,14 @@
     <a href="https://github.com/Willy-JL?tab=followers">
         <img src="https://img.shields.io/github/followers/Willy-JL?labelColor=333333&logoColor=E7E7E7&color=8939FF&label=Followers&logo=github" />
     </a>
-    <a href="">
+    <a href="#">
         <img src="https://img.shields.io/github/stars/Willy-JL?affiliations=OWNER%2CCOLLABORATOR&labelColor=333333&logoColor=E7E7E7&color=EEAA00&label=Stars&logo=github" />
     </a>
     <br />
-    <a href="">
+    <a href="#">
         <img src="https://img.shields.io/badge/Open_Source-❤-FF0069?style=flat&labelColor=333333&logoColor=E7E7E7">
     </a>
-    <a href="">
+    <a href="#">
         <img src="https://img.shields.io/badge/PRs-Welcome-00CC00?style=flat&labelColor=333333&logoColor=E7E7E7">
     </a>
 </p>
@@ -89,7 +89,7 @@ My Specs
 [![CPU](https://img.shields.io/badge/-Ryzen_5_3500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/en/products/apu/amd-ryzen-5-3500u#product-specs)
 [![GPU](https://img.shields.io/badge/-Integrated_GPU-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/en/products/apu/amd-ryzen-5-3500u#product-specs)
 
-Get in touch
+Get in Touch
 ------------
 [![Discord](https://img.shields.io/badge/-WillyJL%233633-333333?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/channels/@me)
 [![Instagram](https://img.shields.io/badge/-@willyjl__-333333?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/willyjl_)\
