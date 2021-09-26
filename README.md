@@ -54,7 +54,7 @@ if __name__ == "__main__":
 Projects 📦
 -----------
 - #### <a href="https://github.com/Willy-JL/Soundy"><img align="center" src="https://img.shields.io/github/v/release/Willy-JL/Soundy?label=Soundy&style=for-the-badge&labelColor=3079EA&color=885DEA"></a> :&nbsp; A universal minimal media controller for Windows
-- #### <a href="https://github.com/Willy-JL/ALTIERA-Bot"><img align="center" src="https://img.shields.io/badge/-A.L.T.I.E.R.A.-BCBD0A?style=for-the-badge"></a> :&nbsp; Custom Discord bot for the Cyberpunk 2077 Modding Server
+- #### <a href="https://github.com/Willy-JL/ALTIERA-Bot"><img align="center" src="https://img.shields.io/badge/-A.L.T.I.E.R.A.-BCBD0A?style=for-the-badge"></a> :&nbsp; Custom Discord bot for the Cyberpunk 2077 Modding Servers
 - #### <a href="https://github.com/Willy-JL/Animate-My-Emojis"><img align="center" src="https://img.shields.io/badge/-Animate_My_Emojis-887BFA?style=for-the-badge"></a> :&nbsp; Robust Discord bot allowing non Nitro users to use animated emojis
 - #### <a href="https://github.com/Willy-JL/Ebook-Rippa"><img align="center" src="https://img.shields.io/badge/-Ebook_Rippa-DC2222?style=for-the-badge"></a> :&nbsp; Rip ebooks from various ebook systems into .pdf format
 - #### <a href="https://github.com/Willy-JL/Str8up-Menu"><img align="center" src="https://img.shields.io/github/v/release/Willy-JL/Str8up-Menu?label=Str8up%20Menu&style=for-the-badge&labelColor=02ACD6&color=BCBD0A"></a> :&nbsp; The first proper mod menu for Cyberpunk 2077
