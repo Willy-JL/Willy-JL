@@ -51,6 +51,18 @@ if __name__ == "__main__":
 
 <br />
 
+Projects 📦
+-----------
+- ###### <a href="https://github.com/Willy-JL/ALTIERA-Bot"><img align="center" src="https://img.shields.io/github/v/release/Willy-JL/Soundy?label=Soundy&style=flat&labelColor=3079EA&color=885DEA"></a> :&nbsp; A universal minimal media controller for Windows
+- ###### <a href="https://github.com/Willy-JL/ALTIERA-Bot"><img align="center" src="https://img.shields.io/badge/-A.L.T.I.E.R.A.-BCBD0A?style=flat"></a> :&nbsp; Custom Discord bot for the Cyberpunk 2077 Modding Server
+- ###### <a href="https://github.com/Willy-JL/Animate-My-Emojis"><img align="center" src="https://img.shields.io/badge/-AnimateMyEmojis-887BFA?style=flat"></a> :&nbsp; Robust Discord bot allowing non Nitro users to use animated emojis
+- ###### <a href="https://github.com/Willy-JL/Ebook-Rippa"><img align="center" src="https://img.shields.io/badge/-Ebook_Rippa-DC2222?style=flat"></a> :&nbsp; Rip ebooks from various ebook systems into .pdf format
+- ###### <a href="https://github.com/Willy-JL/Str8up-Menu"><img align="center" src="https://img.shields.io/github/v/release/Willy-JL/Str8up-Menu?label=Str8up%20Menu&style=flat&labelColor=02ACD6&color=BCBD0A"></a> :&nbsp; The first proper mod menu for Cyberpunk 2077
+- ###### <a href="https://github.com/Willy-JL/CP77-Discord-RPC"><img align="center" src="https://img.shields.io/github/v/release/Willy-JL/CP77-Discord-RPC?label=CP77%20Discord%20RPC&style=flat&labelColor=4E5EE8&color=887BFA"></a> :&nbsp; Mod to add Discord Rich Presence support to Cyberpunk 2077
+- ###### <a href="https://github.com/Willy-JL/F95Checker"><img align="center" src="https://img.shields.io/github/v/release/Willy-JL/F95Checker?label=F95Checker&style=flat&labelColor=111111&color=DA1E2E"></a> :&nbsp; An update checker tool for (NSFW) games on the F95Zone platform
+
+<br />
+
 Languages 💾
 ------------
 [![Python](   https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python&logoColor=white&labelColor=3776FB    )](https://www.python.org/)
