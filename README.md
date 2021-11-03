@@ -53,6 +53,7 @@ if __name__ == "__main__":
 
 Projects 📦
 -----------
+- #### <a href="https://github.com/ohitstom/spicetify-easyinstall"><img align="center" src="https://img.shields.io/github/v/release/ohitstom/spicetify-easyinstall?label=Spicetify-EasyInstall&style=for-the-badge&labelColor=E84F41&color=F48C38"></a> :&nbsp; An open source installer for Spicetify - I did the GUI and the build workflows
 - #### <a href="https://github.com/Willy-JL/Soundy"><img align="center" src="https://img.shields.io/github/v/release/Willy-JL/Soundy?label=Soundy&style=for-the-badge&labelColor=3079EA&color=885DEA"></a> :&nbsp; A universal minimal media controller for Windows
 - #### <a href="https://github.com/Willy-JL/ALTIERA-Bot"><img align="center" src="https://img.shields.io/badge/-A.L.T.I.E.R.A.-BCBD0A?style=for-the-badge"></a> :&nbsp; Custom Discord bot for the Cyberpunk 2077 Modding Servers
 - #### <a href="https://github.com/Willy-JL/Animate-My-Emojis"><img align="center" src="https://img.shields.io/badge/-Animate_My_Emojis-887BFA?style=for-the-badge"></a> :&nbsp; Robust Discord bot allowing non Nitro users to use animated emojis
