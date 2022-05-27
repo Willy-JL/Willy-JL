@@ -39,7 +39,7 @@ class AboutMe():
         self.location = "Italy"
         self.occupation = "High School Student"
         self.birthday = dt.date(day=27, month=5, year=2003)
-        self.age = (dt.date.today()-self.birthday).days/365  # 18 y/o
+        self.age = (dt.date.today()-self.birthday).days/365  # 19 y/o
         self.hobbies = ["Coding", "Gaming", "Music", "YouTube"]
         self.interests = ["Programming", "Linux", "Open Source", "Crypto"]
         self.hotel = "Trivago"
