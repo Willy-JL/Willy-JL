@@ -29,17 +29,17 @@
 <br />
 
 ```py
-import datetime as dt
+from datetime import date
 
 class AboutMe():
     def __init__(self):
         self.username = "WillyJL"
         self.fullname = "William Leslie"
         self.pronouns = ("he", "him")
-        self.location = "Italy"
-        self.occupation = "High School Student"
-        self.birthday = dt.date(day=27, month=5, year=2003)
-        self.age = (dt.date.today()-self.birthday).days/365  # 19 y/o
+        self.location = "Italy" and "UK"
+        self.occupation = "Computer Science Student"
+        self.birthday = date(day=27, month=5, year=2003)
+        self.age = (date.today()-self.birthday).days/365  # 19 y/o
         self.hobbies = ["Coding", "Gaming", "Music", "YouTube"]
         self.interests = ["Programming", "Linux", "Open Source", "Crypto"]
         self.hotel = "Trivago"
@@ -53,6 +53,7 @@ if __name__ == "__main__":
 
 Projects 📦
 -----------
+- #### <a href="https://github.com/Willy-JL/SmoothieVid"><img align="center" src="https://img.shields.io/badge/-SmoothieVid-D02670?style=for-the-badge"></a> :&nbsp; Web app to smoothen and stabilize videos locally and clientside
 - #### <a href="https://github.com/ohitstom/spicetify-easyinstall"><img align="center" src="https://img.shields.io/github/v/release/ohitstom/spicetify-easyinstall?label=Spicetify-EasyInstall&style=for-the-badge&labelColor=E84F41&color=F48C38"></a> :&nbsp; An open source installer for Spicetify - I did the GUI and the build workflows
 - #### <a href="https://github.com/Willy-JL/Soundy"><img align="center" src="https://img.shields.io/github/v/release/Willy-JL/Soundy?label=Soundy&style=for-the-badge&labelColor=3079EA&color=885DEA"></a> :&nbsp; A universal minimal media controller for Windows
 - #### <a href="https://github.com/Willy-JL/ALTIERA-Bot"><img align="center" src="https://img.shields.io/badge/-A.L.T.I.E.R.A.-BCBD0A?style=for-the-badge"></a> :&nbsp; Custom Discord bot for the Cyberpunk 2077 Modding Servers
