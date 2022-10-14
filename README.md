@@ -61,7 +61,6 @@ Projects 📦
 - #### <a href="https://github.com/Willy-JL/Ebook-Rippa"><img align="center" src="https://img.shields.io/badge/-Ebook_Rippa-DC2222?style=for-the-badge"></a> :&nbsp; Rip ebooks from various ebook systems into .pdf format
 - #### <a href="https://github.com/Willy-JL/Str8up-Menu"><img align="center" src="https://img.shields.io/github/v/release/Willy-JL/Str8up-Menu?label=Str8up%20Menu&style=for-the-badge&labelColor=02ACD6&color=BCBD0A"></a> :&nbsp; The first proper mod menu for Cyberpunk 2077
 - #### <a href="https://github.com/Willy-JL/CP77-Discord-RPC"><img align="center" src="https://img.shields.io/github/v/release/Willy-JL/CP77-Discord-RPC?label=CP77%20Discord%20RPC&style=for-the-badge&labelColor=4E5EE8&color=887BFA"></a> :&nbsp; Mod to add Discord Rich Presence support to Cyberpunk 2077
-- #### <a href="https://github.com/Willy-JL/F95Checker"><img align="center" src="https://img.shields.io/github/v/release/Willy-JL/F95Checker?label=F95Checker&style=for-the-badge&labelColor=111111&color=DA1E2E"></a> :&nbsp; An update checker tool for (NSFW) games on the F95Zone platform
 
 <br />
 
