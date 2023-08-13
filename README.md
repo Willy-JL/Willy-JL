@@ -39,7 +39,7 @@ class AboutMe():
         self.location = "Italy" and "UK"
         self.occupation = "Computer Science Student"
         self.birthday = date(day=27, month=5, year=2003)
-        self.age = (date.today()-self.birthday).days/365  # 19 y/o
+        self.age = (date.today()-self.birthday).days/365  # 20 y/o
         self.hobbies = ["Coding", "Gaming", "Music", "YouTube"]
         self.interests = ["Programming", "Linux", "Open Source", "Crypto"]
         self.hotel = "Trivago"
@@ -53,19 +53,28 @@ if __name__ == "__main__":
 
 Projects 📦
 -----------
+
 - #### <a href="https://github.com/Willy-JL/SmoothieVid"><img align="center" src="https://img.shields.io/badge/-SmoothieVid-D02670?style=for-the-badge"></a> :&nbsp; Web app to smoothen and stabilize videos locally and clientside
+
 - #### <a href="https://github.com/ohitstom/spicetify-easyinstall"><img align="center" src="https://img.shields.io/github/v/release/ohitstom/spicetify-easyinstall?label=Spicetify-EasyInstall&style=for-the-badge&labelColor=E84F41&color=F48C38"></a> :&nbsp; An open source installer for Spicetify - I did the GUI and the build workflows
+
 - #### <a href="https://github.com/Willy-JL/Soundy"><img align="center" src="https://img.shields.io/github/v/release/Willy-JL/Soundy?label=Soundy&style=for-the-badge&labelColor=3079EA&color=885DEA"></a> :&nbsp; A universal minimal media controller for Windows
+
 - #### <a href="https://github.com/Willy-JL/ALTIERA-Bot"><img align="center" src="https://img.shields.io/badge/-A.L.T.I.E.R.A.-BCBD0A?style=for-the-badge"></a> :&nbsp; Custom Discord bot for the Cyberpunk 2077 Modding Servers
+
 - #### <a href="https://github.com/Willy-JL/Animate-My-Emojis"><img align="center" src="https://img.shields.io/badge/-Animate_My_Emojis-887BFA?style=for-the-badge"></a> :&nbsp; Robust Discord bot allowing non Nitro users to use animated emojis
+
 - #### <a href="https://github.com/Willy-JL/Ebook-Rippa"><img align="center" src="https://img.shields.io/badge/-Ebook_Rippa-DC2222?style=for-the-badge"></a> :&nbsp; Rip ebooks from various ebook systems into .pdf format
+
 - #### <a href="https://github.com/Willy-JL/Str8up-Menu"><img align="center" src="https://img.shields.io/github/v/release/Willy-JL/Str8up-Menu?label=Str8up%20Menu&style=for-the-badge&labelColor=02ACD6&color=BCBD0A"></a> :&nbsp; The first proper mod menu for Cyberpunk 2077
+
 - #### <a href="https://github.com/Willy-JL/CP77-Discord-RPC"><img align="center" src="https://img.shields.io/github/v/release/Willy-JL/CP77-Discord-RPC?label=CP77%20Discord%20RPC&style=for-the-badge&labelColor=4E5EE8&color=887BFA"></a> :&nbsp; Mod to add Discord Rich Presence support to Cyberpunk 2077
 
 <br />
 
 Languages 💾
 ------------
+
 [![Python](   https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python&logoColor=white&labelColor=3776FB    )](https://www.python.org/)
 [![SQLite](   https://img.shields.io/badge/-SQLite-333333?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=DF9100    )](https://www.sqlite.org/)
 [![Lua](      https://img.shields.io/badge/-Lua-333333?style=for-the-badge&logo=lua&logoColor=white&labelColor=2C39BD          )](https://www.lua.org/)
@@ -76,6 +85,7 @@ Languages 💾
 
 Python Libraries 📚
 -------------------
+
 [![AIOHTTP](   https://img.shields.io/badge/-AIOHTTP-333333?style=for-the-badge&logo=aiohttp&logoColor=white&labelColor=2C5BB4   )](https://docs.aiohttp.org/en/stable)
 [![PyQt](      https://img.shields.io/badge/-PyQt-333333?style=for-the-badge&logo=qt&logoColor=white&labelColor=00BD00           )](https://riverbankcomputing.com/software/pyqt/intro)
 [![Discord.py](https://img.shields.io/badge/-Discord.py-333333?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discordpy.readthedocs.io/en/stable)
@@ -84,6 +94,7 @@ Python Libraries 📚
 
 Tools 🛠️
 --------
+
 [![VS Code](   https://img.shields.io/badge/-VS_Code-333333?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=007ACC)](https://code.visualstudio.com/)
 [![PyCharm](   https://img.shields.io/badge/-PyCharm-333333?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=18BEB9         )](https://www.jetbrains.com/pycharm)
 [![Git](       https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032                 )](https://git-scm.com/)
@@ -94,6 +105,7 @@ Tools 🛠️
 
 My Specs 💻
 -----------
+
 [![Desktop](https://img.shields.io/badge/Custom-Desktop-333333?style=for-the-badge&logo=pcgamingwiki&logoColor=white&labelColor=FF2299)](https://www.youtube.com/watch?v=TSGiyaMM_W8)
 [![CPU](https://img.shields.io/badge/-%E2%81%A0%E2%81%A0Core_i5_9600K-333333?style=for-the-badge&logo=intel&logoColor=white&labelColor=0071C5)](https://ark.intel.com/content/www/us/en/ark/products/134896/intel-core-i59600k-processor-9m-cache-up-to-4-60-ghz.html)
 [![GPU](https://img.shields.io/badge/-%E2%81%A0%E2%81%A0%E2%81%A0RTX_2060_Strix%E2%81%A0%E2%81%A0%E2%81%A0-333333?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=76B900)](https://rog.asus.com/us/graphics-cards/graphics-cards/rog-strix/rog-strix-rtx2060-6g-gaming-model)
@@ -104,6 +116,7 @@ My Specs 💻
 
 Get in Touch 📡
 ---------------
+
 [![Discord](https://img.shields.io/badge/-WillyJL%233633-333333?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/channels/@me)
 [![Instagram](https://img.shields.io/badge/-@willyjl__-333333?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/willyjl_)\
 [![Reddit](https://img.shields.io/badge/-%E2%81%A0%20%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0u%2FWillyJL%E2%81%A0%E2%81%A0%20%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0-333333?style=for-the-badge&logo=reddit&logoColor=white&labelColor=FF4500)](https://www.reddit.com/user/WillyJL)
@@ -114,5 +127,6 @@ Get in Touch 📡
 
 Buy me a Coffee ☕
 -----------------
+
 [![Paypal](https://img.shields.io/badge/-WillyJL1-333333?style=for-the-badge&logo=paypal&logoColor=white&labelColor=00457C)](https://paypal.me/willyjl1)
 [![Ko-Fi]( https://img.shields.io/badge/-WillyJL-333333?style=for-the-badge&logo=kofi&logoColor=white&labelColor=FF5E5B   )](https://ko-fi.com/willyjl)
