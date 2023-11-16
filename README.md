@@ -83,7 +83,6 @@ Languages 💾
 [![Bash](      https://img.shields.io/badge/-Bash-333333?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=4EAA25     )](https://www.gnu.org/software/bash/)
 ![HTML CSS JS](https://img.shields.io/badge/-HTML_CSS_JS-333333?style=for-the-badge&logo=html5&logoColor=white&labelColor=DD3A0A)
 [![Lua](       https://img.shields.io/badge/-Lua-333333?style=for-the-badge&logo=lua&logoColor=white&labelColor=2C39BD          )](https://www.lua.org/)
-[![Redscript]( https://img.shields.io/badge/-Redscript-333333?style=for-the-badge&logo=swift&logoColor=white&labelColor=DC382D  )](https://github.com/jac3km4/redscript)
 
 Tools 🛠️
 --------
