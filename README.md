@@ -10,10 +10,10 @@
         <img src="https://badges.strrl.dev/years/Willy-JL?style=flat&labelColor=333333&logoColor=E7E7E7&color=0089FF&label=Years&logo=github" />
     </a>
     <a href="https://github.com/Willy-JL?tab=followers">
-        <img src="https://img.shields.io/github/followers/Willy-JL?labelColor=333333&logoColor=E7E7E7&color=8939FF&label=Followers&logo=github" />
+        <img src="https://img.shields.io/github/followers/Willy-JL?style=flat&labelColor=333333&logoColor=E7E7E7&color=8939FF&label=Followers&logo=github" />
     </a>
     <a href="#">
-        <img src="https://img.shields.io/github/stars/Willy-JL?affiliations=OWNER%2CCOLLABORATOR&labelColor=333333&logoColor=E7E7E7&color=EEAA00&label=Stars&logo=github" />
+        <img src="https://img.shields.io/github/stars/Willy-JL?style=flat&affiliations=OWNER%2CCOLLABORATOR&labelColor=333333&logoColor=E7E7E7&color=EEAA00&label=Stars&logo=github" />
     </a>
     <br />
     <a href="#">
