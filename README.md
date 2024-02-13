@@ -76,13 +76,13 @@ Projects 📦
 Languages 💾
 ------------
 
-[![C Lang](    https://img.shields.io/badge/-C_Lang-333333?style=for-the-badge&logo=c&logoColor=white&labelColor=6899CC         )](https://www.python.org/)
-[![Python](    https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python&logoColor=white&labelColor=3776FB    )](https://www.python.org/)
-[![SQLite](    https://img.shields.io/badge/-SQLite-333333?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=DF9100    )](https://www.sqlite.org/)
-[![C++](       https://img.shields.io/badge/-C++-333333?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C      )](https://isocpp.org/)
-[![Bash](      https://img.shields.io/badge/-Bash-333333?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=4EAA25     )](https://www.gnu.org/software/bash/)
-![HTML CSS JS](https://img.shields.io/badge/-HTML_CSS_JS-333333?style=for-the-badge&logo=html5&logoColor=white&labelColor=DD3A0A)
-[![Lua](       https://img.shields.io/badge/-Lua-333333?style=for-the-badge&logo=lua&logoColor=white&labelColor=2C39BD          )](https://www.lua.org/)
+[![C Lang](    https://img.shields.io/badge/-C_Lang-333333?style=for-the-badge&logo=c&logoColor=white&labelColor=6899CC          )](https://en.cppreference.com/w/c)
+[![Python](    https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python&logoColor=white&labelColor=3776FB     )](https://www.python.org/)
+[![SQLite](    https://img.shields.io/badge/-SQLite-333333?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=DF9100     )](https://www.sqlite.org/)
+[![C++](       https://img.shields.io/badge/-C++-333333?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C       )](https://isocpp.org/)
+[![Bash](      https://img.shields.io/badge/-Bash-333333?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=4EAA25      )](https://www.gnu.org/software/bash/)
+[![HTML CSS JS](https://img.shields.io/badge/-HTML_CSS_JS-333333?style=for-the-badge&logo=html5&logoColor=white&labelColor=DD3A0A)](https://www.w3schools.com/where_to_start.asp)
+[![Lua](       https://img.shields.io/badge/-Lua-333333?style=for-the-badge&logo=lua&logoColor=white&labelColor=2C39BD           )](https://www.lua.org/)
 
 Tools 🛠️
 --------
