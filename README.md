@@ -53,9 +53,11 @@ if __name__ == "__main__":
 Projects 📦
 -----------
 
-- #### <a href="https://flipper-xtre.me"><img align="center" src="https://img.shields.io/github/v/release/Flipper-XFW/Xtreme-Firmware?label=Xtreme-Firmware&style=for-the-badge&labelColor=DD2222&color=222222"></a> :&nbsp; Feature-rich, stable and customizable Flipper Zero firmware
+<!-- - #### <a href="https://github.com/Next-Flip/Momentum-Firmware"><img align="center" src="https://img.shields.io/github/v/release/Next-Flip/Momentum-Firmware?label=Momentum-Firmware&style=for-the-badge&labelColor=7771DB&color=222222"></a> :&nbsp; Feature-rich, stable and customizable Flipper Zero firmware -->
 
-- #### <a href="https://smoothievid.willyjl.dev"><img align="center" src="https://img.shields.io/badge/-SmoothieVid-D02670?style=for-the-badge"></a> :&nbsp; Smoothen and stabilize videos right from your browser
+- #### <a href="https://github.com/Next-Flip/Momentum-Firmware"><img align="center" src="https://img.shields.io/badge/-Momentum--Firmware-7771DB?style=for-the-badge"></a> :&nbsp; Feature-rich, stable and customizable Flipper Zero firmware
+
+- #### <a href="https://github.com/Willy-JL/SmoothieVid"><img align="center" src="https://img.shields.io/badge/-SmoothieVid-D02670?style=for-the-badge"></a> :&nbsp; Smoothen and stabilize videos right from your browser
 
 - #### <a href="https://github.com/Willy-JL/Qubes-Scripts"><img align="center" src="https://img.shields.io/badge/-Qubes--Scripts-02ACD6?style=for-the-badge"></a> :&nbsp; Collection of custom scripts for Qubes OS
 
