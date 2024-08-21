@@ -94,7 +94,7 @@ Languages 💾
 Tools 🛠️
 --------
 
-[![VS Code](   https://img.shields.io/badge/-VS_Code-333333?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=007ACC)](https://code.visualstudio.com/)
+[![VS Code](   https://img.shields.io/badge/-VS_Code-333333?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VmlzdWFsIFN0dWRpbyBDb2RlPC90aXRsZT48cGF0aCBkPSJNMjMuMTUgMi41ODdMMTguMjEuMjFhMS40OTQgMS40OTQgMCAwIDAtMS43MDUuMjlsLTkuNDYgOC42My00LjEyLTMuMTI4YS45OTkuOTk5IDAgMCAwLTEuMjc2LjA1N0wuMzI3IDcuMjYxQTEgMSAwIDAgMCAuMzI2IDguNzRMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YS45OTkuOTk5IDAgMCAwIDEuMjc2LjA1N2w0LjEyLTMuMTI4IDkuNDYgOC42M2ExLjQ5MiAxLjQ5MiAwIDAgMCAxLjcwNC4yOWw0Ljk0Mi0yLjM3N0ExLjUgMS41IDAgMCAwIDI0IDIwLjA2VjMuOTM5YTEuNSAxLjUgMCAwIDAtLjg1LTEuMzUyem0tNS4xNDYgMTQuODYxTDEwLjgyNiAxMmw3LjE3OC01LjQ0OHYxMC44OTZ6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPgo%3D&logoColor=white&labelColor=007ACC)](https://code.visualstudio.com/)
 [![Qubes OS](  https://img.shields.io/badge/-Qubes_OS-333333?style=for-the-badge&logo=qubesos&logoColor=white&labelColor=63A0FF        )](https://www.qubes-os.org/)
 [![Zsh](       https://img.shields.io/badge/-Zsh-333333?style=for-the-badge&logo=zelle&logoColor=white&labelColor=FF2299               )](https://www.zsh.org/)
 [![Git](       https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032                 )](https://git-scm.com/)
@@ -117,7 +117,7 @@ Get in Touch 📡
 [![Discord](https://img.shields.io/badge/-%E2%81%A0%20%E2%81%A0%E2%81%A0%20%E2%81%A0willyjl%E2%81%A0%20%E2%81%A0%20-333333?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/channels/@me)
 [![Instagram](https://img.shields.io/badge/-@willyjl__-333333?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/willyjl_)\
 [![Reddit](https://img.shields.io/badge/-%E2%81%A0%E2%81%A0u%2FWillyJL%E2%81%A0%E2%81%A0-333333?style=for-the-badge&logo=reddit&logoColor=white&labelColor=FF4500)](https://www.reddit.com/user/WillyJL)
-[![Twitter](https://img.shields.io/badge/-@WillyJL__-333333?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/WillyJL_)\
+[![Twitter](https://img.shields.io/badge/-@WillyJL__-333333?style=for-the-badge&logo=x&logoColor=white&labelColor=1DA1F2)](https://twitter.com/WillyJL_)\
 [![YouTube](https://img.shields.io/badge/-%E2%81%A0%20%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0WillyJL%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0%20%E2%81%A0-333333?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF2222)](https://www.youtube.com/channel/UCxouMwGYdvfKLDP4wb-eUoQ)
 [![GitHub](https://img.shields.io/badge/-%E2%81%A0%20%E2%81%A0Willy--JL%20%E2%81%A0%E2%81%A0-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Willy-JL)\
 [![Linktree](https://img.shields.io/badge/-%E2%81%A0%E2%81%A0linktr.ee%2FWillyJL%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%81%A0-333333?style=for-the-badge&logo=linktree&logoColor=white&labelColor=29B06B)](https://linktr.ee/WillyJL)
