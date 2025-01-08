@@ -95,7 +95,7 @@ Tools 🛠️
 --------
 
 [![VS Code](   https://img.shields.io/badge/-VS_Code-333333?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VmlzdWFsIFN0dWRpbyBDb2RlPC90aXRsZT48cGF0aCBkPSJNMjMuMTUgMi41ODdMMTguMjEuMjFhMS40OTQgMS40OTQgMCAwIDAtMS43MDUuMjlsLTkuNDYgOC42My00LjEyLTMuMTI4YS45OTkuOTk5IDAgMCAwLTEuMjc2LjA1N0wuMzI3IDcuMjYxQTEgMSAwIDAgMCAuMzI2IDguNzRMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YS45OTkuOTk5IDAgMCAwIDEuMjc2LjA1N2w0LjEyLTMuMTI4IDkuNDYgOC42M2ExLjQ5MiAxLjQ5MiAwIDAgMCAxLjcwNC4yOWw0Ljk0Mi0yLjM3N0ExLjUgMS41IDAgMCAwIDI0IDIwLjA2VjMuOTM5YTEuNSAxLjUgMCAwIDAtLjg1LTEuMzUyem0tNS4xNDYgMTQuODYxTDEwLjgyNiAxMmw3LjE3OC01LjQ0OHYxMC44OTZ6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPgo%3D&logoColor=white&labelColor=007ACC)](https://code.visualstudio.com/)
-[![Qubes OS](  https://img.shields.io/badge/-Qubes_OS-333333?style=for-the-badge&logo=qubesos&logoColor=white&labelColor=63A0FF        )](https://www.qubes-os.org/)
+[![Qubes OS](  https://img.shields.io/badge/-Arch_Linux-333333?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=1793D0    )](https://archlinux.org/)
 [![Zsh](       https://img.shields.io/badge/-Zsh-333333?style=for-the-badge&logo=zelle&logoColor=white&labelColor=FF2299               )](https://www.zsh.org/)
 [![Git](       https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032                 )](https://git-scm.com/)
 [![GitHub](    https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=222222           )](https://github.com/)
