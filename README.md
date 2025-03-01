@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm WillyJL!</h1>
 <p align="center">
-    <i>Self proclaimed</i> <b>CEO of Procrastination</b> <i>and</i> <b>Avid Python & C Enjoyer</b>
+    <i>Self proclaimed</i> <b>CEO of Procrastination</b> <i>and</i> <b>Avid C & Python Enjoyer</b>
     <br />
     <br />
     <a href="https://hits.seeyoufarm.com/">
@@ -61,6 +61,8 @@ Projects 📦
 -----------
 
 - #### <a href="https://github.com/Next-Flip/Momentum-Firmware"><img align="center" src="https://img.shields.io/github/v/release/Next-Flip/Momentum-Firmware?label=Momentum-Firmware&style=for-the-badge&labelColor=7771DB&color=222222"></a> :&nbsp; Feature-rich, stable and customizable Flipper Zero firmware
+
+- #### <a href="https://github.com/Willy-JL/MemSed"><img align="center" src="https://img.shields.io/github/v/release/Willy-JL/MemSed?label=MemSed&style=for-the-badge&labelColor=3377B0&color=222222"></a> :&nbsp; MEMory Search and EDit for Linux, inspired by Cheat Engine
 
 - #### <a href="https://github.com/Willy-JL/SmoothieVid"><img align="center" src="https://img.shields.io/badge/-SmoothieVid-D02670?style=for-the-badge"></a> :&nbsp; Smoothen and stabilize videos right from your browser
 
